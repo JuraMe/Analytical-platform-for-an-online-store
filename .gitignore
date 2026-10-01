@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Файлы, которые генерирует блокнот при запуске
+customers.csv
+products.csv
+orders.csv
+rejected.csv
+summary.json
+revenue_by_category.csv
+report.txt
+
+# Настройки IDE
+.idea/
